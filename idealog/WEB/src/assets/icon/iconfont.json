@@ -1,0 +1,149 @@
+{
+  "id": "1515582",
+  "name": "idealog",
+  "font_family": "iconfont",
+  "css_prefix_text": "icon-",
+  "description": "",
+  "glyphs": [
+    {
+      "icon_id": "1425436",
+      "name": "All",
+      "font_class": "ali-all",
+      "unicode": "e603",
+      "unicode_decimal": 58883
+    },
+    {
+      "icon_id": "1425439",
+      "name": "agriculture",
+      "font_class": "ali-leef",
+      "unicode": "e604",
+      "unicode_decimal": 58884
+    },
+    {
+      "icon_id": "1425523",
+      "name": "me",
+      "font_class": "ali-me",
+      "unicode": "e607",
+      "unicode_decimal": 58887
+    },
+    {
+      "icon_id": "1425525",
+      "name": "Settings",
+      "font_class": "ali-setting",
+      "unicode": "e608",
+      "unicode_decimal": 58888
+    },
+    {
+      "icon_id": "1425526",
+      "name": "information",
+      "font_class": "ali-xinxi",
+      "unicode": "e609",
+      "unicode_decimal": 58889
+    },
+    {
+      "icon_id": "1425527",
+      "name": "Find someone",
+      "font_class": "ali-position",
+      "unicode": "e60a",
+      "unicode_decimal": 58890
+    },
+    {
+      "icon_id": "1425528",
+      "name": "Home",
+      "font_class": "ali-shouye",
+      "unicode": "e60b",
+      "unicode_decimal": 58891
+    },
+    {
+      "icon_id": "1425641",
+      "name": "phone",
+      "font_class": "ali-phone",
+      "unicode": "e60c",
+      "unicode_decimal": 58892
+    },
+    {
+      "icon_id": "1425647",
+      "name": "My message",
+      "font_class": "ali-myinfo",
+      "unicode": "e60e",
+      "unicode_decimal": 58894
+    },
+    {
+      "icon_id": "1425650",
+      "name": "Avatar",
+      "font_class": "ali-avatar",
+      "unicode": "e60d",
+      "unicode_decimal": 58893
+    },
+    {
+      "icon_id": "2642794",
+      "name": "22_ico_emoji",
+      "font_class": "ali-emoji",
+      "unicode": "e6de",
+      "unicode_decimal": 59102
+    },
+    {
+      "icon_id": "6400631",
+      "name": "赞",
+      "font_class": "ali-favor",
+      "unicode": "e617",
+      "unicode_decimal": 58903
+    },
+    {
+      "icon_id": "10614358",
+      "name": "idea",
+      "font_class": "idea",
+      "unicode": "e62b",
+      "unicode_decimal": 58923
+    },
+    {
+      "icon_id": "10838461",
+      "name": "comments",
+      "font_class": "ali-msg",
+      "unicode": "e614",
+      "unicode_decimal": 58900
+    },
+    {
+      "icon_id": "10838463",
+      "name": "attention",
+      "font_class": "ali-follow",
+      "unicode": "e615",
+      "unicode_decimal": 58901
+    },
+    {
+      "icon_id": "11268581",
+      "name": "standard",
+      "font_class": "ali-info",
+      "unicode": "e62e",
+      "unicode_decimal": 58926
+    },
+    {
+      "icon_id": "11544976",
+      "name": "fans",
+      "font_class": "ali-fans",
+      "unicode": "e633",
+      "unicode_decimal": 58931
+    },
+    {
+      "icon_id": "11650455",
+      "name": "bars",
+      "font_class": "ali-bars",
+      "unicode": "e7a6",
+      "unicode_decimal": 59302
+    },
+    {
+      "icon_id": "11650832",
+      "name": "home",
+      "font_class": "ali-home",
+      "unicode": "e7f3",
+      "unicode_decimal": 59379
+    },
+    {
+      "icon_id": "11937074",
+      "name": "表情",
+      "font_class": "ali-bq",
+      "unicode": "e611",
+      "unicode_decimal": 58897
+    }
+  ]
+}

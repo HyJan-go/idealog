@@ -1,0 +1,10 @@
+*.xml
+/venv
+/idealog/venv
+/bin
+.idea
+.zip
+/__pycache__
+/idealog/__pycache__
+/idealog/routes/__pycache__
+/idealog/backstage/__pycache__
